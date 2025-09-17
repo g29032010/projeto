@@ -1,0 +1,12 @@
+body {
+    background-color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(61, 12, 36);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Alteramos a cor de fundo */
+/* meche no estilo das letras */
